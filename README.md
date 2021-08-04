@@ -15,9 +15,11 @@ https://i.imgur.com/yMN3UBd.mp4
 ## Screenshots
 
 Enemies
+
 ![App Screenshot](https://i.imgur.com/BL6gBBq.png)
 
 Boss Second Stage
+
 ![App Screenshot](https://i.imgur.com/LIlyv69.png)
 
 
